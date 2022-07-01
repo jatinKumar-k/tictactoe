@@ -1,3 +1,4 @@
+!pip install pygame
 
 import pygame as pg,sys
 from pygame.locals import *
