@@ -1,3 +1,7 @@
+pip install pygame
+pip install random
+pip install time
+
 import pygame as pg,sys
 from pygame.locals import *
 import time
