@@ -1,4 +1,6 @@
 
+import os
+os.environ['SDL_VIDEODRIVER']='windib'
 
 import pygame as pg,sys
 from pygame.locals import *
