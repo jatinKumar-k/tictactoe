@@ -1,6 +1,6 @@
 
 import os
-os.environ['SDL_VIDEODRIVER']='windib'
+os.environ['SDL_VIDEODRIVER']='directfb'
 
 import pygame as pg,sys
 from pygame.locals import *
